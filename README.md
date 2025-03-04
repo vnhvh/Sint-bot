@@ -14,4 +14,4 @@ For example: account 1 saves the query in line 1 in data.txt, then account 1's c
 • Run with command: python main.py
 
 
-**If there is any error, please send a message to my tele @vn_hvh
+**If there is any error, please send a message to my telegram @vn_hvh
